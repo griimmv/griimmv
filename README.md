@@ -2,7 +2,7 @@ i yearn for more knowledge.
 <p align="right">
   my music
   <a href="https://youtu.be/XZfyyk0_Yqs">
-    <img src="https://youtu.be/XZfyyk0_Yqs" alt="my music" width="300">
+    <img src="https://youtube.com" alt="my music" width="300">
   </a>
 </p>
 
