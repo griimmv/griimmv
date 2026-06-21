@@ -1,7 +1,7 @@
 i yearn for more knowledge.
 <p align="right">
-  <a href="https://youtu.be/XZfyyk0_Yqs">
-    <img src="https://i.ytimg.com/vi/XZfyyk0_Yqs/maxresdefault.jpg" alt="my music" width="125">
+  <a href="https://youtu.be/_zumnvfKGq0?si=4q-dD52YLfLcO0Zp">
+    <img src="https://i.ytimg.com/vi/_zumnvfKGq0?si=4q-dD52YLfLcO0Zp/maxresdefault.jpg" alt="my music" width="125">
   </a>
   <br>
   my favorite music
