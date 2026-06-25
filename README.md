@@ -8,9 +8,6 @@
   i yearn for more knowledge.
 </p> 
 </div>
-
-
-<br>
 <br>
 <div align="center">
 
