@@ -1,6 +1,6 @@
 <img align="right" width="100" src="./maki-maki-phone.gif"/>
+## hi, i'm AK
 <br>
-### hi, i'm AK
 i yearn for more knowledge. 
 <br>
 <br>
