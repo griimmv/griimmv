@@ -1,5 +1,6 @@
-i yearn for more knowledge. <img align="right" width="100" src="./maki-maki-phone.gif" />
+<img align="right" width="100" src="./maki-maki-phone.gif"/>
 <br>
+i yearn for more knowledge. 
 <br>
 
 # tech stack i used:
