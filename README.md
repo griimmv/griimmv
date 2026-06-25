@@ -12,6 +12,10 @@
 
 <br>
 <br>
+<div align="center">
 
 # tech stack:
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,npm,bun,sqlite,neovim,linux)](https://skillicons.dev)
+
+</div>
