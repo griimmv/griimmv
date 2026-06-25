@@ -2,7 +2,6 @@
 <h3> 
   hi, i'm AK 
 </h3>
-<br>
 i yearn for more knowledge. 
 <br>
 <br>
