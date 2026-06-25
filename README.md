@@ -1,5 +1,4 @@
-<img align="left" width="100" src="./konuri-maki-maki.gif"/>
-<img align="right" width="100" src="./maki-maki-phone.gif"/>
+<img align="left" width="125" src="./konuri-maki-maki.gif"/> <img align="right" width="100" src="./maki-maki-phone.gif"/>
 
 <div align="center">
 <h3> 
