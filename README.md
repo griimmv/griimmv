@@ -1,8 +1,16 @@
+<img align="left" width="100" src="./konuri-maki-maki.gif"/>
 <img align="right" width="100" src="./maki-maki-phone.gif"/>
+
+<div align="center">
 <h3> 
   hi, i'm AK 
 </h3>
-i yearn for more knowledge. 
+<p>
+  i yearn for more knowledge.
+</p> 
+</div>
+
+
 <br>
 <br>
 
