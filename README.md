@@ -20,9 +20,19 @@
 <br>
 <br>
 
-reach out to me by DMing me on: 
+<p>
+  <span>
+    Open for projects!
+  </span>
+  <span style="color: #888; margin: 0 0.5em;">│</span>
+  <span>
+    DM me on: 
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/grmmv)
+
+  </span>
+</p>
+
 
 </div>
