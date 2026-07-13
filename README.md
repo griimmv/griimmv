@@ -15,7 +15,7 @@
 
 # tech stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,npm,bun,express,sqlite,neovim,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,npm,bun,express,sqlite,docker,neovim,linux)](https://skillicons.dev)
 
 <br>
 <br>
