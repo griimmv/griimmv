@@ -35,5 +35,7 @@
 </div>
 
 <p align="left">
-pfp: <br>https://www.pixiv.net/en/users/47709464
+
 </p>
+
+###### pfp: https://www.pixiv.net/en/users/47709464
