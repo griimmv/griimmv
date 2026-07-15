@@ -18,9 +18,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,npm,bun,express,sqlite,docker,neovim,linux)](https://skillicons.dev)
 
-<br>
-<br>
-
+<br><br>
 <p>
   <span>
     Open for projects!
@@ -34,6 +32,8 @@
 
   </span>
 </p>
-
-
 </div>
+
+<p align="left">
+pfp: <br>https://www.pixiv.net/en/users/47709464
+</p>
