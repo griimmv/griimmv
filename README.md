@@ -1,3 +1,7 @@
+<img align="right" width="100" alt="touhou-touhou-project" src="https://github.com/user-attachments/assets/743219b1-bc98-4012-8ac5-6c250fff5db0" />
+<img align="left" width="100" alt="touhou-touhou-project" src="https://github.com/user-attachments/assets/743219b1-bc98-4012-8ac5-6c250fff5db0" />
+
+
 <!-- <img align="left" width="125" src="./konuri-maki-maki.gif"/> <img align="right" width="100" src="./maki-maki-phone.gif"/>
 -->
 <div align="center">
