@@ -1,5 +1,5 @@
-<img align="left" width="125" src="./konuri-maki-maki.gif"/> <img align="right" width="100" src="./maki-maki-phone.gif"/>
-
+<!-- <img align="left" width="125" src="./konuri-maki-maki.gif"/> <img align="right" width="100" src="./maki-maki-phone.gif"/>
+-->
 <div align="center">
 <h3> 
   hi, i'm AK <br>
@@ -37,5 +37,3 @@
 <p align="left">
 
 </p>
-
-###### pfp: https://www.pixiv.net/en/users/47709464
