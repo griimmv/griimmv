@@ -10,7 +10,7 @@
   i share my personal tools here
 </h3>
 <p>
-  "i yearn for more knowledge" -AK
+  "i yearn for more knowledge"
 </p> 
 </div>
 
