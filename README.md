@@ -20,7 +20,7 @@
 
 # tech stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,npm,bun,express,sqlite,docker,neovim,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,rust,react,nodejs,npm,bun,express,sqlite,docker,neovim,linux)](https://skillicons.dev)
 
 <br><br>
 <p>
@@ -37,7 +37,3 @@
   </span>
 </p>
 </div>
-
-<p align="left">
-
-</p>
