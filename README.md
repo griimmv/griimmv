@@ -32,7 +32,8 @@
     DM me on: 
 <br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/grmmv)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/grimm8640)
+[![Proton](https://img.shields.io/badge/Proton-6d4aff?style=for-the-badge&logo=proton&logoColor=white)](mailto:griimmv@proton.me)
 
   </span>
 </p>
