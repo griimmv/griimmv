@@ -25,11 +25,7 @@
 <br><br>
 <p>
   <span>
-    Open for projects!
-  </span>
-  <span style="color: #888; margin: 0 0.5em;">│</span>
-  <span>
-    DM me on: 
+    DM me for business inqueries on: 
 <br>
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/grimm8640)
